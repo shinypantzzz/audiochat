@@ -1,13 +1,14 @@
 package client
 
 import (
-	"audiochat/server/internal/room"
 	"log"
 	"net/http"
 	"time"
 
 	"github.com/google/uuid"
 	"github.com/gorilla/websocket"
+
+	"github.com/shinypantzzz/audiochat/server/internal/room"
 )
 
 const (

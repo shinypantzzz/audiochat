@@ -1,10 +1,11 @@
 package main
 
 import (
-	"audiochat/server/internal/client"
-	"audiochat/server/internal/room"
 	"log"
 	"net/http"
+
+	"github.com/shinypantzzz/audiochat/server/internal/client"
+	"github.com/shinypantzzz/audiochat/server/internal/room"
 )
 
 func main() {

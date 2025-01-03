@@ -1,4 +1,4 @@
-module audiochat/server
+module github.com/shinypantzzz/audiochat/server
 
 go 1.23.2
 
