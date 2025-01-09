@@ -1,5 +1,6 @@
 .vscode
 env
 build
-dist
+dist*
+client/db.json
 __pycache__
